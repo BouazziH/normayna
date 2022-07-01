@@ -1,5 +1,6 @@
 <footer>
-    <p>&copy; <?php echo date("Y"); ?> - NORMAYNA Corporation</p>
+    <h1>Test</h1>
+    <p>&copy; <?php echo date("Y"); ?> - NORMAYNA</p>
 </footer>
 </body>
 </html>
